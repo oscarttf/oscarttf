@@ -1,0 +1,42 @@
+/* ::-webkit-scrollbar {
+    width: 5px;}
+  
+::-webkit-scrollbar-track{
+    background: #000;}
+   
+::-webkit-scrollbar-thumb{
+    background: white;}
+  
+::-webkit-scrollbar-thumb:hover{
+    background: #3a86ff;} */
+
+.stroke{
+    border: 0px solid white;}
+
+.background{
+    background-color: black;}
+
+.type{
+    font-family: tenon, sans-serif;
+    font-size: 16pt;
+    font-weight: 100;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: white;
+    font-variant-numeric: tabular-nums;}
+
+.line-height{
+    line-height: 25pt;}
+
+.link{
+    text-decoration: underline;
+    color: white;}
+
+.link:hover{
+    text-decoration: underline;}
+
+.gray{
+    color: gray;}
+ 
+
+    
