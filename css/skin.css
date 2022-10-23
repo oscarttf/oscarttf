@@ -25,6 +25,10 @@
     color: white;
     font-variant-numeric: tabular-nums;}
 
+::selection {
+    background: #fff;
+    color: black;}
+
 .line-height{
     line-height: 20pt;}
 
