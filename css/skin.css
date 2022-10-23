@@ -29,7 +29,7 @@
     line-height: 20pt;}
 
 .link{
-    text-decoration: underline;
+    text-decoration: none;
     color: white;}
 
 .link:hover{
